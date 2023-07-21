@@ -5,10 +5,6 @@
 #### AI초입부분을 공부할때 알게된 유전알고리즘으로 간단한 자율주행 모델을 만들어봤어요
 #### 다른 사람들이 만든거를 보고 저도 하나 만들어 보고싶어서 직접 하나하나 만들었습니다.
 
-
-[다운로드링크]
-- [https://docs.google.com/presentation/d/1LRyYfRBsx-wAGVpBOxhNQFC0TttdBojk/edit?usp=drive_link&ouid=100742902694856536039&rtpof=true&sd=true](https://drive.google.com/file/d/1uZhBn9eP73mSkDQqoXCqZHFa4jIUlaWF/view?usp=sharing)https://drive.google.com/file/d/1uZhBn9eP73mSkDQqoXCqZHFa4jIUlaWF/view?usp=sharing
-
 [발표PPT]
 ![슬라이드1](https://github.com/gkxotjd12312/unitiy_Genetic_A_Car/assets/54784059/4f064b59-1054-4e33-b1a1-9647dfe1e0ce)
 ![슬라이드2](https://github.com/gkxotjd12312/unitiy_Genetic_A_Car/assets/54784059/8d3b8ac0-64bd-43d9-9cad-b3122836de13)
