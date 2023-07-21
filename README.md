@@ -15,9 +15,13 @@
 ![슬라이드3](https://github.com/gkxotjd12312/unitiy_Genetic_A_Car/assets/54784059/bcf8e2f8-0350-447d-9d8e-6759b49aac56)
 ![슬라이드4](https://github.com/gkxotjd12312/unitiy_Genetic_A_Car/assets/54784059/ee901788-ef9d-460b-b7ed-35102025c268)
 ![슬라이드5](https://github.com/gkxotjd12312/unitiy_Genetic_A_Car/assets/54784059/0cfdcb9c-5486-4415-9149-bc58f74912ac)
+
 https://github.com/gkxotjd12312/unitiy_Genetic_A_Car/assets/54784059/6328d501-a568-45ce-b92e-610c3b57441e
+
 https://github.com/gkxotjd12312/unitiy_Genetic_A_Car/assets/54784059/eae1f4d2-3750-4ea8-af32-e8aaf6406023
+
 https://github.com/gkxotjd12312/unitiy_Genetic_A_Car/assets/54784059/4d4c507b-b17f-490c-99ad-538d69a0aae6
+
 https://github.com/gkxotjd12312/unitiy_Genetic_A_Car/assets/54784059/53e40c21-c191-41dd-be54-214df73baff7
 
 
