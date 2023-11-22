@@ -1,4 +1,4 @@
-# unitiy_Genetic_A_Car
+# unity_Genetic_A_Car
 #인공지능 # 2D유니티 # 유전알고리즘 # 자율주행
 
 
